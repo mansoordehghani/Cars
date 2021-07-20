@@ -1,0 +1,14 @@
+J:\Cars\Application\bin\Debug\netstandard2.1\Application.deps.json
+J:\Cars\Application\bin\Debug\netstandard2.1\Application.dll
+J:\Cars\Application\bin\Debug\netstandard2.1\Application.pdb
+J:\Cars\Application\bin\Debug\netstandard2.1\Domain.dll
+J:\Cars\Application\bin\Debug\netstandard2.1\Persistence.dll
+J:\Cars\Application\bin\Debug\netstandard2.1\Domain.pdb
+J:\Cars\Application\bin\Debug\netstandard2.1\Persistence.pdb
+J:\Cars\Application\obj\Debug\netstandard2.1\Application.csprojAssemblyReference.cache
+J:\Cars\Application\obj\Debug\netstandard2.1\Application.AssemblyInfoInputs.cache
+J:\Cars\Application\obj\Debug\netstandard2.1\Application.AssemblyInfo.cs
+J:\Cars\Application\obj\Debug\netstandard2.1\Application.csproj.CoreCompileInputs.cache
+J:\Cars\Application\obj\Debug\netstandard2.1\Application.csproj.CopyComplete
+J:\Cars\Application\obj\Debug\netstandard2.1\Application.dll
+J:\Cars\Application\obj\Debug\netstandard2.1\Application.pdb
